@@ -1,0 +1,47 @@
+@import url("http://fonts.googleapis.com/css?family=Lato:300,700");
+
+html, body {
+	background: #fff;
+    color: #646464;
+    font-family: "Lato", Helvetica, sans-serif;
+    font-size: 12pt;
+    margin: 10px 0 0 0;
+    padding: 0;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+}
+
+#blogwrapper {
+    background: #D1CCBC;
+    width: 800px;
+    min-height: 800px;
+    height: 100%;
+    margin: 0 auto 30px;
+    padding: 10px;
+}
+
+#post {
+    background: #fff;
+    margin: 0 0 5px 0;
+    padding: 5px 10px 5px 10px;
+}
+
+#post h3 {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+#post #time {
+    margin: 10px 0 0 0;
+    text-align: right;
+    font-size: 10pt;
+}
+
+#divider {
+    border-top: 2px solid #E8EAEB;
+    margin: 10px 0px 10px 0px;
+}
+
